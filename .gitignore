@@ -1,1 +1,10 @@
-/src/Main.java
+#Intellij
+.idea/
+planejamento-IA-EP2.iml
+out/
+
+#Eclipse
+.settings/
+.project
+.classpath
+bin/
